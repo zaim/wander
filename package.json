@@ -3,6 +3,8 @@
   "name": "wander",
   "description": "Watch files and Execute or Reload",
   "version": "0.0.1",
+  "keywords": ["watch", "monitor", "files", "reload"],
+  "repository": "git://github.com/zaim/wander.git",
   "dependencies": {
     "commander": "~1.0.4",
     "async": "~0.1.22",
