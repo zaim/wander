@@ -1,8 +1,8 @@
 wander
 ======
 
-With `wander`, you can Watch files and Execute a command
-or Reload a web page.
+With `wander`, you can watch files and execute a command or 
+reload a web page when changes are detected on those files.
 
 Usage
 -----
